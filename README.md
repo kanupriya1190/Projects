@@ -20,3 +20,15 @@
     - **Key Results**: The optimized portfolio allocation achieved with this strategy provides balanced exposure across key assets, informed by both variance reduction and statistical relationships within the selected stock pairs.
     - **Skills**: Statistical Arbitrage, Portfolio Optimization, Cointegration Analysis, API Integration, Financial Data Visualization
     - [[[Repository Link]](https://github.com/kanupriya1190/Projects/blob/1185a9814e8398bc1efef759824ddafb76aca7ec/Broker%20API.ipynb)](#)
+  
+5.  **Macroeconomic Time Series Modeling and Analysis**
+    - **Description**: This project explores macroeconomic time series data, specifically using data from FRED (Federal Reserve Economic Data) on key indicators like the GDP Price Index, the Unemployment Rate, and the Federal Funds Rate. Various time series models, including Vector Autoregression (VAR) and Autoregressive (AR) models, are employed to analyze trends and relationships among these economic indicators. The analysis includes key statistical plots (ACF and PACF) to assess autocorrelation and seasonality, alongside visualization of the model outputs to interpret economic dynamics over time. The project builds upon methods from a foundational research paper, adapted and developed further for this analysis.
+    - **Skills**: Time Series Analysis, VAR Modeling, Economic Data Interpretation, Python, Data Visualization
+    - [[[Repository Link]](https://github.com/kanupriya1190/Projects/blob/b8d530a0f0f1d41190bf1917ead9db762d3194e5/Time%20Series%20Coding%20.ipynb)](#)
+
+6. **OpenAI Chatbot for Misinformation Detection**
+    - **Description**: This project leverages the OpenAI API to develop a chatbot capable of detecting false information in text. By analyzing the input text for accuracy and identifying potential misinformation, the chatbot provides users with insights into the credibility of statements. The model is configured to assess factual accuracy, summarize information, and highlight potential falsehoods or inconsistencies. This application demonstrates the use of AI to improve information reliability in conversational contexts, making it a powerful tool for misinformation detection.
+    - **Skills**: API Integration, Natural Language Processing, Misinformation Detection, Python
+    - [[[Repository Link]](https://github.com/kanupriya1190/Projects/blob/b8d530a0f0f1d41190bf1917ead9db762d3194e5/OpenAI%20API%20.ipynb)](#)
+
+  
